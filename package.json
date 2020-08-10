@@ -1,0 +1,35 @@
+{
+  "name": "picstagram",
+  "version": "1.0.0",
+  "description": "\"Customized Instagram Clone\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js ",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "author": "POOJA RATHORE",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.16",
+    "nodemailer": "^6.4.10",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojarathore30/Picstagram.git"
+  },
+  "keywords": [
+    "pictagram",
+    "instagram",
+    "social-media",
+    "photos"
+  ],
+  "bugs": {
+    "url": "https://github.com/poojarathore30/Picstagram/issues"
+  },
+  "homepage": "https://github.com/poojarathore30/Picstagram#readme"
+}
