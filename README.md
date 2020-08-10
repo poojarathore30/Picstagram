@@ -1,6 +1,6 @@
 # Picstagram
 
-## This  is a REACT Application Built Cloning All the basic functionalities that Social media platfofrm Instagram Provides
+### This  is a REACT Application Built Cloning All the basic functionalities that Social media platfofrm Instagram Provides
 ## To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
 ### Tech Stack Involved :
 #### ❓ Database : MongoDB
@@ -9,6 +9,8 @@
 #### ❓ Authentication : Token Based Authentication
 ## For  Pictorial Experience :
 ## New Version
+![](https://github.com/poojarathore30/Picstagram/blob/master/app.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/profile1.PNG)
 ## Older Version
 ![](https://github.com/poojarathore30/Picstagram/blob/master/profile.PNG)
 ![](https://github.com/poojarathore30/Picstagram/blob/master/HomeP.PNG)
