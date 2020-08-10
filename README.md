@@ -12,8 +12,13 @@
 > ❓ Authentication : Token Based Authentication
 ## For  Pictorial Experience :
 ## New Version
+**HOME PAGE**
 ![](https://github.com/poojarathore30/Picstagram/blob/master/app.PNG)
+
+**PROFILE PAGE**
 ![](https://github.com/poojarathore30/Picstagram/blob/master/profile1.PNG)
+
+
 ## Older Version
 ![](https://github.com/poojarathore30/Picstagram/blob/master/profile.PNG)
 ![](https://github.com/poojarathore30/Picstagram/blob/master/HomeP.PNG)
