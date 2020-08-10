@@ -7,13 +7,13 @@
 #### ❓ Server -side : NodeJs , ExpressJs
 #### ❓ Authentication : Token Based Authentication
 ## For  Pictorial Experience :
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/profile.PNG)
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/HomeP.PNG)
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/Home.PNG)
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/User.PNG)
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/SignUp.PNG)
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/Signin.PNG)
-![](https://github.com/poojarathore30/InstagramCLONE.github.io/blob/master/CreatePost.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/profile.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/HomeP.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/Home.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/User.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/SignUp.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/Signin.PNG)
+![](https://github.com/poojarathore30/Picstagram/blob/master/CreatePost.PNG)
 
 
 
