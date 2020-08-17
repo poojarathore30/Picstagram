@@ -2,7 +2,6 @@
 
 ### This  is a REACT Application Built Cloning All the basic functionalities that Social media platform Instagram Provides ✨
 ## To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
-> https://www.linkedin.com/feed/update/urn:li:activity:6690528480821596160/
 ## Features:
 Sneaky features of PicStagram :
 
