@@ -5,7 +5,7 @@
 
 > reviews https://www.linkedin.com/feed/update/urn:li:activity:6690528480821596160/
 ## Features:
-Sneaky features of PicStagram :
+Sneaky features of PicStagram ✅:
 
 ⭐ Create Your Profile
 ⭐ LOgin & SignUp using Jwt Authentication
