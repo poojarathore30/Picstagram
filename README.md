@@ -34,7 +34,7 @@ Sneaky features of PicStagram ✅:
 ![](https://github.com/poojarathore30/Picstagram/blob/master/profile1.PNG)
 
 
-## Older Version *********************************
+## Older Version *******************************
 ![](https://github.com/poojarathore30/Picstagram/blob/master/profile.PNG)
 ![](https://github.com/poojarathore30/Picstagram/blob/master/HomeP.PNG)
 ![](https://github.com/poojarathore30/Picstagram/blob/master/Home.PNG)
