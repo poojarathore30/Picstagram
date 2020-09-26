@@ -4,7 +4,7 @@
 ## To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
 
 > reviews https://www.linkedin.com/feed/update/urn:li:activity:6690528480821596160/
-## Features:
+## Features :
 Sneaky features of PicStagram ✅ :
 
 ⭐ Create Your Profile
