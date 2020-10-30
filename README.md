@@ -1,6 +1,5 @@
-<p align="center"><img align="center"  width="80" height="80" src="https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295" >
-</p> 
- # Picstagram 
+<p align="center"><img align="center"  width="80" height="80" src="https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295" ></p> 
+# Picstagram 
 ### This  is a REACT Application  Built Cloning All the basic functionalities that the Social media platform Instagram Provides ✨
 ##  To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
 
