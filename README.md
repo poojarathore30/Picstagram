@@ -10,7 +10,7 @@
 Sneaky features of PicStagram  ✅ :
 
 ⭐ Create Your Profile
-⭐ LOgin & SignUp using Jwt Authentication
+⭐ LOgin & SignUp using Jwt token Authentication
 ⭐ Upload And Edit Your Display Profile
 ⭐ Create a new Post to be featured on the Wall
 ⭐ Like Others Post
