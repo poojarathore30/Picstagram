@@ -21,7 +21,11 @@ Sneaky features of PicStagram  ✅ :
 <li>⭐ Follow and Unfollow Other Users
    <li>⭐ Delete Your Post
 </ul>
-   ### Tech Stack Involved :
+  
+  
+  ### Tech Stack Involved :
+  
+  
 >❓ Database : MongoDB
 
 > ❓ Frontend : ReactJs , Materialize-Css , Html and CSS
@@ -29,6 +33,8 @@ Sneaky features of PicStagram  ✅ :
 > ❓ Server -side : NodeJs , ExpressJs
 
 > ❓ Authentication : Token Based Authentication
+
+
 ## For  Pictorial Experience :
 ## New Version
 **HOME PAGE**
