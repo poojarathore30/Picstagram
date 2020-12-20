@@ -12,14 +12,14 @@
 Sneaky features of PicStagram  ✅ :
 <ul>
 <li>⭐ Create Your Profile
-   <li>⭐ LOgin & SignUp usin</li>g Jwt token Authentication</li>
+   <li>⭐ LOgin & SignUp using Jwt token Authentication </li>
 <li>⭐ Upload And Edit Your Display Profile
-   <li>⭐ Cr</li>eate a new Post to be featured on the Wall
+   <li>⭐ Create a new Post to be featured on the Wall
 </li><li>⭐ Like Others Post
 <li>⭐ Comment on Others Post</li>
-<li>⭐ Real-time displa</li>y of Followers and Followings</li>
+<li>⭐ Real-time display of Followers and Followings</li>
 <li>⭐ Follow and Unfollow Other Users
-   <li>⭐ Delete </li>Your Post
+   <li>⭐ Delete Your Post
 
 ### Tech Stack Involved :
 ></li> ❓ Database : MongoDB
