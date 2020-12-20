@@ -1,5 +1,4 @@
 # Picstagram 📸
-### This  is a REACT Application  Built Cloning All the basic functionalities that the Social media platform Instagram Provides ✨
 ##  To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
 <p align="center"><img align="center"  width="80" height="80" src="https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295" /></p> 
 
@@ -11,19 +10,19 @@
 > reviews https://www.linkedin.com/feed/update/urn:li:activity:6690528480821596160/
 ## Features :
 Sneaky features of PicStagram  ✅ :
-
-⭐ Create Your Profile
-⭐ LOgin & SignUp using Jwt token Authentication
-⭐ Upload And Edit Your Display Profile
-⭐ Create a new Post to be featured on the Wall
-⭐ Like Others Post
-⭐ Comment on Others Post
-⭐ Real-time display of Followers and Followings
-⭐ Follow and Unfollow Other Users
-⭐ Delete Your Post
+<ul>
+<li>⭐ Create Your Profile
+   <li>⭐ LOgin & SignUp usin</li>g Jwt token Authentication</li>
+<li>⭐ Upload And Edit Your Display Profile
+   <li>⭐ Cr</li>eate a new Post to be featured on the Wall
+</li><li>⭐ Like Others Post
+<li>⭐ Comment on Others Post</li>
+<li>⭐ Real-time displa</li>y of Followers and Followings</li>
+<li>⭐ Follow and Unfollow Other Users
+   <li>⭐ Delete </li>Your Post
 
 ### Tech Stack Involved :
-> ❓ Database : MongoDB
+></li> ❓ Database : MongoDB
 
 > ❓ Frontend : ReactJs , Materialize-Css , Html and CSS
 
