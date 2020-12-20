@@ -20,9 +20,9 @@ Sneaky features of PicStagram  ✅ :
 <li>⭐ Real-time display of Followers and Followings</li>
 <li>⭐ Follow and Unfollow Other Users
    <li>⭐ Delete Your Post
-
-### Tech Stack Involved :
-></li> ❓ Database : MongoDB
+</ul>
+   ### Tech Stack Involved :
+>❓ Database : MongoDB
 
 > ❓ Frontend : ReactJs , Materialize-Css , Html and CSS
 
