@@ -4,7 +4,7 @@
 
 ### This  is a REACT Application  Built Cloning All the basic functionalities that the Social media platform Instagram Provides ✨
 
-> All the Media is Uploaded and Accesed using Cloud Storage Dynamically , Thus Making it a Beautiful, Dynamic, Interactive and Social Networking application.
+> All the Media is Uploaded and Accesed Dynamically using Cloud Storage , Thus Making it a Beautiful, Dynamic, & Interactive Social Networking application.
 
 ##  To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
 
