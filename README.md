@@ -1,4 +1,5 @@
 # Picstagram 📸
+##  To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
 <p align="center"><img align="center"  width="80" height="80" src="https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295" /></p> 
 
 
@@ -6,7 +7,7 @@
 
 > All the Media is Uploaded and Accesed Dynamically using Cloud Storage , Thus Making it a Beautiful, Dynamic, & Interactive Social Networking application.
 
-##  To Explore Kindly Visit : https://picstagramm.herokuapp.com/  😊
+
 
 > reviews https://www.linkedin.com/feed/update/urn:li:activity:6690528480821596160/
 ## Features :
